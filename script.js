@@ -1,1 +1,1 @@
-"function validate() {...}" 
+"123" 
